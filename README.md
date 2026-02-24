@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-F9AB00)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-3%20Flash-F9AB00)
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
